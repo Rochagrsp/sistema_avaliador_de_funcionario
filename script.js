@@ -33,8 +33,8 @@ function avaliarFuncionario(){
     <p>Funcionario ${nome}</p>
     <p>Nível: ${nivel}</p>
     <p>Salário: ${salario.toFixed(2)}</p>
-    <p>Bônus: ${salario.toFixed(2)}</p>
-    <p>Pagamento: ${salario.toFixed(2)}</p>
+    <p>Bônus: ${bonus.toFixed(2)}</p>
+    <p>Pagamento: ${pagamento.toFixed(2)}</p>
 
 
     `;
